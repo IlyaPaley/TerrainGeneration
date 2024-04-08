@@ -1,4 +1,4 @@
-# TerrainGeneration
+# TerrainGeneration - BitMasking and Procedural Generation for Unity Engine
 Source code for a video-tutorial on Terrain Generation and Bitmasking
 
 You can watch full tutorial video at...
